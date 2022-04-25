@@ -26,7 +26,7 @@ https://github.com/lemonhead94/pyNutriScore
 
 ## Usage
 
-### Import the library
+### Install
 
 ```sh
 pip install pyNutriScore
