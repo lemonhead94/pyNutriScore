@@ -1,7 +1,7 @@
 # pyNutriScore
 
 <p align="center">
-  <img width="568" height="307" src="https://github.com/lemonhead94/pyNutriScore/raw/master/assets/images/nutri-score-logo.png" alt="Nutri Score logo">
+  <img width="568" height="307" src="https://raw.githubusercontent.com/lemonhead94/pyNutriScore/main/assets/images/nutri-score-logo.png" alt="Nutri Score logo">
 </p>
 
 > The goal of the project is to provide simple package that can calculate the Nutri-Score.
