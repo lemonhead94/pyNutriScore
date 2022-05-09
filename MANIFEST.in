@@ -1,1 +1,1 @@
-include pyNutriScore/scoreTable.json
+include pyNutriScore/interfaces/scoreTable.json
